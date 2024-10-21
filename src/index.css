@@ -1,0 +1,41 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+  overflow-x: hidden;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-image: url(/public/images\ \(2\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+code {
+  font-family: "Cedarville Cursive", cursive;
+
+  
+}
+
+
+div{
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  margin: 200px 0px;
+  color: aliceblue;
+
+
+
+}
+h1{
+  font-family: "Cedarville Cursive", cursive;
+  text-align: center;
+  align-items: center;
+
+  border-radius: 50px;
+  padding: 20px;
+  align-items: center;
+
+}
+
